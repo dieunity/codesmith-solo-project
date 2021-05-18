@@ -1,0 +1,1 @@
+# codesmith-solo-project
