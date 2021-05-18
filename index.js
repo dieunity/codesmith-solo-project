@@ -1,6 +1,6 @@
-const obj = {
-  a: 1,
-  b: 2,
-};
+// const obj = {
+//   a: 1,
+//   b: 2,
+// };
 
-var a = 5;
+// var a = 5;
